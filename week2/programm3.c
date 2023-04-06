@@ -34,7 +34,7 @@ int countPairsWithDifference(int arr[], int n, int K) {
     }
     return count;
 }
-
+//24 71 16 92 12 28 48 14 20 22
 int main() {
     int arr[] = {1, 5, 3, 4, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
